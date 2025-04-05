@@ -7,6 +7,8 @@ pipeline {
             APP_SERVICE_NAME = 'webapijenkins2808'
             AZURE_CLI_PATH = 'C:/Program Files/Microsoft SDKs/Azure/CLI2/wbin'
             SYSTEM_PATH = 'C:/Windows/System32'
+            TERRAFORM_VERSION = '1.11.3'
+            TERRAFORM_DIR = 'C:\\Users\\pc\\OneDrive\\Documents\\Programs\\Terraform'
             TERRAFORM_PATH = 'C:\\Users\\pc\\OneDrive\\Documents\\Programs\\Terraform\\terraform.exe'
         }
 
